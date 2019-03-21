@@ -1,0 +1,9 @@
+F:\C#\finalhomework\finalhomework\bin\Debug\finalhomework.exe.config
+F:\C#\finalhomework\finalhomework\bin\Debug\finalhomework.exe
+F:\C#\finalhomework\finalhomework\bin\Debug\finalhomework.pdb
+F:\C#\finalhomework\finalhomework\obj\Debug\finalhomework.csprojResolveAssemblyReference.cache
+F:\C#\finalhomework\finalhomework\obj\Debug\finalhomework.Form1.resources
+F:\C#\finalhomework\finalhomework\obj\Debug\finalhomework.Properties.Resources.resources
+F:\C#\finalhomework\finalhomework\obj\Debug\finalhomework.csproj.GenerateResource.Cache
+F:\C#\finalhomework\finalhomework\obj\Debug\finalhomework.exe
+F:\C#\finalhomework\finalhomework\obj\Debug\finalhomework.pdb
